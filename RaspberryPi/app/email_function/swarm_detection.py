@@ -12,7 +12,7 @@ def swarm_alert():
     email_sender = 'hiveguardtest@gmail.com'
     email_password = password
 
-    email_reciever = 'domey.f@gmail.com'
+    email_reciever = 'your@email.com'  # <-- add your email here
     subject = f"Swarm alert from Hive {hive_num}"
     body = f"""
         Hello,
