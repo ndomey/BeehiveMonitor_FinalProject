@@ -18,6 +18,8 @@
 </ul>
 
 <h2>How to run:</h2>
-<p>cd into RaspberryPi/app then:</p>
-<p>npm i</p>
-<p>npm run dev</p>
+<p>cd into RaspberryPi/app, then:</p>
+<li>python3 bee_monitor_app.py</li>
+<p>cd into /hiveguard:</p>
+<li>npm i</li>
+<li>npm run dev</li>
