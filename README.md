@@ -18,11 +18,6 @@
 </ul>
 
 <h2>How to run:</h2>
-<ul>
-  <li>  npm i 
-  npm run dev</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
+<p>cd into RaspberryPi/app then:</p>
+<p>npm i</p>
+<p>npm run dev</p>
