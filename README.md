@@ -15,11 +15,16 @@
 <h3>Software:</h3>
 <ul>
   <li>Python 3.11</li>
+  <li>Node Package Manager</li>
 </ul>
 
 <h2>How to run:</h2>
 <p>cd into RaspberryPi/app, then:</p>
-<li>python3 bee_monitor_app.py</li>
+```bash
+python3 bee_monitor_app.py
+```
 <p>cd into /hiveguard:</p>
-<li>npm i</li>
-<li>npm run dev</li>
+```bash
+npm i
+npm run dev
+```
