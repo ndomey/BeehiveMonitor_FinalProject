@@ -19,12 +19,13 @@
 </ul>
 
 <h2>How to run:</h2>
-<p>cd into RaspberryPi/app, then:</p>
-```bash
+```
+cd ../RaspberryPi/app
 python3 bee_monitor_app.py
 ```
-<p>cd into /hiveguard:</p>
-```bash
+
+```
+cd ../hiveguard
 npm i
 npm run dev
 ```
